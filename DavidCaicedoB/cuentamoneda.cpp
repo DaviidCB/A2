@@ -1,4 +1,3 @@
-// creado por Colobon Pauloba
 
 
 /*pone a su disposición los objetos cin, cout en el ámbito estándar (std), de tal manera que usted puede comenzar a enviar o recibir información a través de los mismos sin siquiera preocuparse de su creación.*/
